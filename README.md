@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eric Shim, a Business student with a passion for Cloud Computing and Network Security 
 - 👀 As of now, I've delivered tangible results through internships at ServiceNow, Palo Alto Networks, CrowdStrike, and PwC
-- 🌱 I’m currently learning how to better manage technical projects and deliver them successfully on a end-end basis
+- 🌱 I’m currently learning how to better manage technical projects and deliver them successfully on an end-end basis
 - 💞️ I’m looking to collaborate on any automation projects, with an emphasis on Cybersecurity or the cloud
 - 📫 You can reach me on [LinkedIn]([url](https://www.linkedin.com/in/ericgshim/))
 
